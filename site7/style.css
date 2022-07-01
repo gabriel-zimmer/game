@@ -137,9 +137,11 @@ article {
     background-color: white;
 }
 
-.imgxj6 {
-    display: flex;
-    justify-content: center;
+.xj6 {
+    display: block;
+    margin: auto;
+    width: 80%;
+    text-align: center;
 }
 
 ul { 
@@ -173,5 +175,7 @@ footer {
 
 footer p {
     text-align: center;
-    margin: 0px 0px -8px 0px;
+    margin: auto;
+    margin-bottom: -8px;
+    max-width: 450px;
 }
